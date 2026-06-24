@@ -11,6 +11,21 @@ build/
 .eggs/
 *.log
 
+# Environment variables — NEVER commit these
+.env
+.env.local
+.env.*
+*.env
+
+# IDE / Agent local settings
+.claude/
+.gemini/
+.cursor/
+.idea/
+.vscode/
+*.swp
+*.swo
+
 # Virtual environments
 .venv/
 venv/

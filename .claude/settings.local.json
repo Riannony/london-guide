@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "WebFetch(domain:ai.google.dev)",
-      "mcp__visualize__read_me",
-      "mcp__visualize__show_widget"
-    ]
-  }
-}
